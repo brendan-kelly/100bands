@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4acd611a-7d78-463a-9c0c-6d374fa52992" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/views.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hundred_bands/models.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hundred_bands/settings.py" afterPath="$PROJECT_DIR$/hundred_bands/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/models.py" afterPath="$PROJECT_DIR$/main/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +29,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -65,6 +56,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blank</find>
+      <find>required</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -244,10 +241,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/hundred_bands_venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="858" column="29" lean-forward="false" selection-start-line="858" selection-start-column="21" selection-end-line="858" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
